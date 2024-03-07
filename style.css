@@ -163,7 +163,7 @@ footer {
     --bg-url: url(./assets/bg.jpg);
   }
 
-  :light {
+  .light {
     --bg-url: url(./assets/bg-light.jpg);
   }
 }
